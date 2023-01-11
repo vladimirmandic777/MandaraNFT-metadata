@@ -1,0 +1,10 @@
+{
+  "name": "Mandara NFT Token",
+  "description": "This is a unique and valuable token.",
+  "image": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/QBV43FWQNZC3JC5N4P5T5PK77M.jpg",
+  "attributes": {
+    "tokenId": 1234,
+    "year": "2023",
+    "owner": "example"
+  }
+}
